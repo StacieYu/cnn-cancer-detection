@@ -10,6 +10,3 @@ This repository contains a convolutional neural network (CNN) model built to cla
 
 ## Dataset
 This model is built using the [Kaggle Histopathologic Cancer Detection](https://www.kaggle.com/competitions/histopathologic-cancer-detection) dataset.
-
-## Author
-Ying Yu
